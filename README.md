@@ -22,8 +22,8 @@
 👨‍💻 I'm passionate about Data, APIs, Python & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- python data analyst(Intern) Analyatica -(May24 -Sep24)
-- junior Software Develpment Engineer(Vision Networks)- (Jun20- Sep20)
+- Python data analyst(Intern) Analyatica -(May24 -Sep24)
+- Junior Software Develpment Engineer(Vision Networks)- (Jun20- Sep20)
   
 <!--![Divya's github stats](https://github-readme-stats.vercel.app/api?username=divyasiddam&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
 ![Divya's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divyasiddam&layout=compact&langs_count=8&hide_border=true)
